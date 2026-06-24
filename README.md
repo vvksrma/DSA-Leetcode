@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vvksrma/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/vvksrma/DSA-Leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vvksrma/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vvksrma/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/vvksrma/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vvksrma/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vvksrma/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vvksrma/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vvksrma/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
